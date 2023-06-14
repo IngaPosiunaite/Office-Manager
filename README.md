@@ -1,11 +1,11 @@
-# Office Manager
+<h3> Office Manager
 
 <h5>The task was to model a network of typical office equipment:
-<h5>•printer
-<h5>•scanner
-<h5>•coffee machine 
-<h5>•copier
-<h5>•vending machine
+<h5>• printer
+<h5>• scanner
+<h5>• coffee machine 
+<h5>• copier
+<h5>• vending machine
 <h5>A simple monitoring/management tool which will be able to notify users of the status (online, offline or in error state) of each connected piece of equipment. All machines have unique alphanumeric codes.
  
 

@@ -20,10 +20,10 @@
  
  
  
-<h5> Printer display the description of their job in the console and then set the job field to null.
-<h5> Scanner modify their job to get it ready to be passed on to a printer. To that effect, scanner swap the job’s owner with their machine code, replace the first three letters in the job code with PRT and do not set the job to null afterwards. They do, however, have a method to allow clearing the job explicitly.
+<h5> Printer displays the description of their job in the console and then set the job field to null.
+<h5> Scanner modifies their job to get it ready to be passed on to a printer. To that effect, scanner swaps the job’s owner with their machine code, replaces the first three letters in the job code with PRT and does not set the job to null afterwards. They do, however, have a method to allow clearing the job explicitly.
 <h5> Coffee and vending machines check the job’s owner. If it starts with 1, the owner is senior management and gets coffee / food for free. Otherwise, the owner is notified via a message displayed in the console that a standard amount (10p) has been taken out of his/her account as payment for the job. The job is set to null afterwards.
-<h5>Copier accept jobs with extra data indicating the number of copies to make for that job. The copier prefix each copy it produces with the count of each copy along with the total number requested in that job. Finally, the copier set the job field to null.
+<h5>Copier accepts jobs with extra data indicating the number of copies to make for that job. The copier prefix each copy it produces with the count of each copy along with the total number requested in that job. Finally, the copier sets the job field to null.
 
 <h5>The manager is not a piece of office equipment. It is a fully digital system that monitors all machines in the office and has the main task of supervising the job assignment process. To this end, the manager will store a list of all the jobs currently active (that have not yet been processed) and a record of all available machines. 
 <h5>The manager performs the following tasks:

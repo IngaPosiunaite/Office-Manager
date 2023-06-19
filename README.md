@@ -14,7 +14,7 @@
  
  
  
-![OfficeManager](https://github.com/IngaPosiunaite/OfficeManager/assets/119749457/ef9f92da-4510-4055-8fac-714f8c8f4818)
+![OfficeManager](https://github.com/IngaPosiunaite/QuizApplication/assets/119749457/f9305bb1-53aa-4206-b6b4-5f9493f11522)
 
 
  

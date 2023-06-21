@@ -14,7 +14,7 @@
  
  
  
-![OfficeManager](https://github.com/IngaPosiunaite/QuizApplication/assets/119749457/f9305bb1-53aa-4206-b6b4-5f9493f11522)
+![OfficeManager](https://github.com/IngaPosiunaite/TheatreBookingSystem/assets/119749457/4c102c4e-0eee-45b9-a920-e46e17a54294)
 
 
  
